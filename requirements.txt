@@ -1,0 +1,4 @@
+neo4j>=5.28,<7
+streamlit>=1.60,<2
+python-dotenv>=1.0
+pandas>=2.0

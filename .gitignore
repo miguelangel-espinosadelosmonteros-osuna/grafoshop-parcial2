@@ -1,0 +1,13 @@
+# Credenciales: nunca se suben al repositorio
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
